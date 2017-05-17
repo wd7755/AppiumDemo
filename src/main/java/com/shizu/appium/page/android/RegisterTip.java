@@ -1,4 +1,4 @@
-package com.shizu.appium.core.page.android;
+package com.shizu.appium.page.android;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;

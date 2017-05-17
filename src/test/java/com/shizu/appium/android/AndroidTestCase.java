@@ -1,4 +1,4 @@
-package com.shizu.appium.core;
+package com.shizu.appium.android;
 
 import java.net.MalformedURLException;
 import java.net.URL;
@@ -14,7 +14,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.remote.DesiredCapabilities;
 
-import com.shizu.appium.core.page.android.HomePage;
+import com.shizu.appium.page.android.HomePage;
 import com.shizu.appium.utils.CommonUtils;
 
 import io.appium.java_client.android.AndroidDriver;

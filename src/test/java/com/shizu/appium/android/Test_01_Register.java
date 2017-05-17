@@ -4,13 +4,12 @@ import org.junit.Assert;
 import org.junit.Test;
 import org.openqa.selenium.support.PageFactory;
 
-import com.shizu.appium.core.AndroidTestCase;
-import com.shizu.appium.core.page.android.HomePage;
-import com.shizu.appium.core.page.android.LoginPage;
-import com.shizu.appium.core.page.android.My10zu;
-import com.shizu.appium.core.page.android.Register;
-import com.shizu.appium.core.page.android.RegisterTip;
-import com.shizu.appium.core.page.android.SendVerifyCode;
+import com.shizu.appium.page.android.HomePage;
+import com.shizu.appium.page.android.LoginPage;
+import com.shizu.appium.page.android.My10zu;
+import com.shizu.appium.page.android.Register;
+import com.shizu.appium.page.android.RegisterTip;
+import com.shizu.appium.page.android.SendVerifyCode;
 import com.shizu.appium.utils.CommonUtils;
 
 public class Test_01_Register extends AndroidTestCase {
